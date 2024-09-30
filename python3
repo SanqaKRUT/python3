@@ -1,4 +1,4 @@
-# ex 1 
+#Задание№1
 
 phrase = "Programming is fun!"
 substring = phrase[0]
@@ -8,7 +8,7 @@ print(substring)
 substring = phrase[18]
 print(substring)
 
-#ex 2
+#Задание№2
 
 numbers = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]
 sublist = numbers[2]
@@ -18,7 +18,7 @@ print(sublist)
 sublist = numbers[4]
 print(sublist)
 
-#ex 3 
+#Задание№3
 
 cities = ("New York", "London", "Paris", "Tokyo", "Sydney")
 substring = cities[1]
@@ -28,7 +28,7 @@ print(substring)
 substring = cities[-5]
 print(substring)
 
-#ex 4 
+#Задание№4
 
 quote = "The quick brown fox jumps over the lazy dog"
 substring = quote[0:6]
@@ -40,7 +40,7 @@ print(substring)
 substring = quote[::-1]
 print(substring)
 
-#ex 5 
+#Задание№5
 
 numbers = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
 sublist = numbers[0:4]
